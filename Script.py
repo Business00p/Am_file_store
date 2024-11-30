@@ -77,7 +77,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 First Send /clone command then follow below steps.
     
-1) sᴇɴᴅ <code>/newbot</code> ᴛᴏ @BotFather
+1) sᴇɴᴅ <code>/newbot</code> ᴛᴏ @TvShOw076
 2) ɢɪᴠᴇ ᴀ ɴᴀᴍᴇ ꜰᴏʀ ʏᴏᴜʀ ʙᴏᴛ.
 3) ɢɪᴠᴇ ᴀ ᴜɴɪǫᴜᴇ ᴜsᴇʀɴᴀᴍᴇ.
 4) ᴛʜᴇɴ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ᴀ ᴍᴇssᴀɢᴇ ᴡɪᴛʜ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ.
