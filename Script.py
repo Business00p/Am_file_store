@@ -51,9 +51,9 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>
 
-🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/tvshowchat00>TvShow Admin</a>
+🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/TvShOw076>TvShow Admin</a>
 
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/tvshowchat00>TvShow Admin </a>
+📱 sᴜᴘᴘᴏʀᴛ Chat: <a href=https://t.me/TvShOw076>TvShow Admin </a>
 
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/publicgood009>Tvshow 𝐔𝐩𝐝𝐚𝐭𝐞</a></b>
 """
