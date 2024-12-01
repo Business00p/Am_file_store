@@ -2,7 +2,7 @@
   <img src="https://envs.sh/YvI.jpg" alt="TVshow_filestore_bot Logo">
 </p>
 <h1 align="center">
-  VJ FILE STORE BOT
+  TVSHOW FILE STORE BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
@@ -103,7 +103,7 @@ Copyright ©️ [Tv Show](https://t.me/TvShOw076)
 - YouTube Channel : [Tv Show](https://youtube.com/@techbro-kd8yk?si=_Ir24suY8cP8cinS)
 - Telegram Channel : [Update Channel ](https://t.me/publicgood009)
 - Contact Link : [Admin](https://t.me/TvShOw076)
-- Instagram Id Link : [Tech VJ](https://www.instagram.com/gopalmadhav2024)
+- Instagram Id Link : [shopping](https://www.instagram.com/gopalmadhav2024)
 
 </b>
 </details>
